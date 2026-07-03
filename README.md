@@ -1,4 +1,4 @@
-# SpaceX Falcon 3D Booster Simulation & Deep RL Autopilot
+# 3D Booster Simulation & Deep RL Autopilot
 
 A 3D 6-DOF (Degrees of Freedom) simulation and Deep Reinforcement Learning (DRL) control system for the vertical landing of a SpaceX Falcon-like booster. The project uses a hybrid control architecture combining a classical cascade PID autopilot with a **Soft Actor-Critic (SAC)** neural network to achieve precise landings under extreme conditions, such as 60 m/s (216 km/h) hurricane-force winds.
 
