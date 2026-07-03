@@ -1,0 +1,18 @@
+# Python
+**/__pycache__/
+python/venv/
+*.pyc
+
+# C++ Binaries
+cpp/booster_sim
+cpp/test_nn
+
+# Training Logs & Raw Checkpoints
+python/logs_sac/
+python/checkpoints/
+python/checkpoints_sac/
+
+# OS and IDE files
+.DS_Store
+.vscode/
+.idea/
